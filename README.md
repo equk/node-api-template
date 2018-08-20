@@ -1,2 +1,3 @@
 # node-api-template
-nodejs api server template using expressjs
+
+Basic template for starting a new expressjs json API server.
